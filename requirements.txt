@@ -1,0 +1,3 @@
+# Editable install with no version control (Installation==0.1)
+ntplib == 0.3.4
+cx-Freeze
